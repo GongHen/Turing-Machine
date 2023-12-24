@@ -1,1 +1,1 @@
-# Turing-Machine
+# TuringMachine
