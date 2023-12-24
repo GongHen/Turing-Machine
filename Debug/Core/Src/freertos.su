@@ -1,0 +1,10 @@
+../Core/Src/freertos.c:109:6:PID_execution_lock	8	static
+../Core/Src/freertos.c:115:6:PID_execution_unlock	8	static
+../Core/Src/freertos.c:121:13:configureTimerForRunTimeStats	4	static
+../Core/Src/freertos.c:126:22:getRunTimeCounterValue	4	static
+../Core/Src/freertos.c:136:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:149:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/freertos.c:163:6:MX_FREERTOS_Init	128	static
+../Core/Src/freertos.c:225:6:StartDefaultTask	56	static
+../Core/Src/freertos.c:248:6:OV7725ProcessTask	24	static
+../Core/Src/freertos.c:313:6:PIDThread	32	static

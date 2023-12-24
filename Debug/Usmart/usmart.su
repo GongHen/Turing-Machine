@@ -1,0 +1,10 @@
+../Usmart/usmart.c:19:4:usmart_sys_cmd_exe	56	static
+../Usmart/usmart.c:133:6:usmart_reset_runtime	4	static
+../Usmart/usmart.c:143:5:usmart_get_runtime	4	static
+../Usmart/usmart.c:155:6:Timer4_Init	24	static
+../Usmart/usmart.c:176:6:usmart_init	16	static
+../Usmart/usmart.c:186:4:usmart_cmd_rec	88	static
+../Usmart/usmart.c:216:6:usmart_exe	152	static
+../Usmart/usmart.c:306:6:usmart_scan	16	static
+../Usmart/usmart.c:344:5:read_addr	16	static
+../Usmart/usmart.c:349:6:write_addr	16	static

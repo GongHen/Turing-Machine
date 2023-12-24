@@ -1,0 +1,8 @@
+../UserApp/OV7725/ov7725.c:27:4:OV7725_Init	16	static
+../UserApp/OV7725/ov7725.c:57:6:OV7725_camera_refresh	24	static
+../UserApp/OV7725/ov7725.c:104:6:OV7725_Light_Mode	16	static
+../UserApp/OV7725/ov7725.c:155:6:OV7725_Color_Saturation	16	static
+../UserApp/OV7725/ov7725.c:165:6:OV7725_Brightness	24	static
+../UserApp/OV7725/ov7725.c:212:6:OV7725_Contrast	16	static
+../UserApp/OV7725/ov7725.c:227:6:OV7725_Special_Effects	16	static
+../UserApp/OV7725/ov7725.c:272:6:OV7725_Window_Set	24	static

@@ -1,0 +1,2 @@
+../UserApp/Main.cpp:15:6:void Main()	16	static
+E:/CODE/OV7725/OV7725_cube_RTOSV1/UserApp/Inc/emulated_eeprom.hpp:24:19:const T& EEPROMClass::Max(const T&, const T&) [with T = int]	24	static

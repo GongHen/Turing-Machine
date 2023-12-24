@@ -1,0 +1,8 @@
+../UserApp/OV7725/sccb.c:14:6:SCCB_Init	4	static
+../UserApp/OV7725/sccb.c:22:6:SCCB_Start	8	static
+../UserApp/OV7725/sccb.c:35:6:SCCB_Stop	8	static
+../UserApp/OV7725/sccb.c:45:6:SCCB_No_Ack	8	static
+../UserApp/OV7725/sccb.c:58:4:SCCB_WR_Byte	24	static
+../UserApp/OV7725/sccb.c:84:4:SCCB_RD_Byte	16	static
+../UserApp/OV7725/sccb.c:102:4:SCCB_WR_Reg	24	static
+../UserApp/OV7725/sccb.c:116:4:SCCB_RD_Reg	24	static
